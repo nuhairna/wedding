@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 2b4f4d042cc73b5e9a6fb961e82683f7718e70f9 Kerja <macbookpro@Users-MacBook-Pro.local> 1635288856 +0700	commit (initial): init
+2b4f4d042cc73b5e9a6fb961e82683f7718e70f9 0000000000000000000000000000000000000000 Kerja <macbookpro@Users-MacBook-Pro.local> 1635291718 +0700	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 2b4f4d042cc73b5e9a6fb961e82683f7718e70f9 Kerja <macbookpro@Users-MacBook-Pro.local> 1635291718 +0700	Branch: renamed refs/heads/master to refs/heads/main
+2b4f4d042cc73b5e9a6fb961e82683f7718e70f9 728e057d38b704d65917cbf9c66e36d2b8fc9a30 Kerja <macbookpro@Users-MacBook-Pro.local> 1635291793 +0700	commit: first
+728e057d38b704d65917cbf9c66e36d2b8fc9a30 941a9159068e7eeaeea5b8acd46885e9004a48ea Kerja <macbookpro@Users-MacBook-Pro.local> 1635292115 +0700	pull origin main --allow-unrelated-histories: Merge made by the 'recursive' strategy.
+0000000000000000000000000000000000000000 0137a2bb970819c7874a17fa1d0209f514501246 Kerja <macbookpro@Users-MacBook-Pro.local> 1635677265 +0700	commit (initial): gh-pages
