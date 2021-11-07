@@ -1,3 +1,3 @@
 module.exports = {
-  // publicPath: 'https://nuhairna.github.io/wedding/'
+  publicPath: 'https://nuhairna.github.io/wedding/'
 }
