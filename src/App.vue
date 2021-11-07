@@ -1,7 +1,7 @@
 <template>
   <div class="body">
     <div id="app">
-      <HelloWorld msg="Welcome to Your Vue.js App"/>
+      <master msg="Welcome to Your Vue.js App"/>
     </div>
   </div>
 </template>
@@ -14,11 +14,11 @@
 </style>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import master from './components/master.vue'
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    master
   }
 }
 </script>
