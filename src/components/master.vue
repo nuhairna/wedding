@@ -19,14 +19,14 @@
                 <div class="_16dark bottom20">Undangan Pernikahan</div>
                 <div class="_16dark bottom20 tgl">11- 12 -2021</div>
                 <div class="detail">
-                    <div class="nama top10">Irna Roudlotul Choiroh</div>
+                    <div class="nama top10">Irna Roudlotul Choiroh, S.Pd</div>
                 </div>
-                <center class="_16dark"><i>Putri Bapak <b>Ir. Besut Hariyanto (Alm)</b> & <br> <b>Ibu Nur Achmi</b></i></center>
+                <center class="_16dark"><i>Putri Bapak <b>Ir. Besut Hariyanto, M.Si (Alm)</b> & <br> <b>Ibu Nur Achmi</b></i></center>
                 <div class="nama">&amp;</div>
                 <div class="detail">
-                    <div class="nama bottom10">Muhammad Ulin Nuha</div>
+                    <div class="nama bottom10">Muhammad Ulin Nuha, S.Kom</div>
                 </div>
-                <center class="_16dark"><i>Putra Bapak <b>Mathori</b> & <br>Ibu <b>Umi Abidah</b></i></center>
+                <center class="_16dark"><i>Putra Bapak <b>Drs. Mathori, M.Pd</b> & <br>Ibu <b>Umi Abidah</b></i></center>
             </div>
         </div>
         <div class="undangan">
@@ -66,9 +66,13 @@
                     </div>
                     <div class="wrapper_datetime"> 
                         &nbsp;<i class="fa fa-clock fa-2x" style="color:black"></i>
-                        <div class="waktutgl_custom">
-                            <div class="harinya" style="margin-left:3px;margin-top:8px">Rilex &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+                        <div class="waktutgl">
+                            <div class="harinya">12:30 WIB</div>
+                            <div class="tanggalnya">Sampai selesai</div>
                         </div>
+                        <!-- <div class="waktutgl_custom">
+                            <div class="harinya" style="margin-left:3px;margin-top:8px">Rilex &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="_16dark top20 notop">Jl.Undar RT/RW 09/02 Ds.Menganto Mojowarno Jombang <br>(Utara musolla Baitussalam)</div>
