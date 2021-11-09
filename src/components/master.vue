@@ -21,7 +21,7 @@
                 <div class="detail">
                     <div class="nama top10">Irna Roudlotul Choiroh</div>
                 </div>
-                <center class="_16dark"><i>Putri Bapak <b>Besut Hariyanto (Alm)</b> & <br> <b>Ibu Nur Achmi</b></i></center>
+                <center class="_16dark"><i>Putri Bapak <b>Ir. Besut Hariyanto (Alm)</b> & <br> <b>Ibu Nur Achmi</b></i></center>
                 <div class="nama">&amp;</div>
                 <div class="detail">
                     <div class="nama bottom10">Muhammad Ulin Nuha</div>
@@ -66,9 +66,8 @@
                     </div>
                     <div class="wrapper_datetime"> 
                         &nbsp;<i class="fa fa-clock fa-2x" style="color:black"></i>
-                        <div class="waktutgl">
-                            <div class="harinya">Rilex</div>
-                            <div class="tanggalnya">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+                        <div class="waktutgl_custom">
+                            <div class="harinya" style="margin-left:3px;margin-top:8px">Rilex &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
                         </div>
                     </div>
                 </div>
