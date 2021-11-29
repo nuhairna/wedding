@@ -52,7 +52,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="_16dark top20 notop">Jl.Undar RT/RW 09/02 Ds.Menganto Mojowarno Jombang <br>(Utara musolla Baitussalam)</div>
+                <div class="_16dark top20 notop">Jl.Undar RT/RW 09/02 Ds.Menganto Mojowarno Jombang <br>(Utara Mushola Baitussalam)</div>
             </div>
             <div class="akad top40">
                 <div class="title">resepsi</div>
@@ -75,7 +75,11 @@
                         </div> -->
                     </div>
                 </div>
-                <div class="_16dark top20 notop">Jl.Undar RT/RW 09/02 Ds.Menganto Mojowarno Jombang <br>(Utara musolla Baitussalam)</div>
+                <div class="_16dark top20 notop">Jl.Undar RT/RW 09/02 Ds.Menganto Mojowarno Jombang <br>(Utara Mushola Baitussalam)</div>
+                <br >
+                <div class="_16dark top20 notop">
+                    Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila Bapak/Ibu/ Saudara/i berkenan hadir untuk memberi Doa Restu kepada kedua mempelai
+                </div>
             </div>
         </div>
         <div class="himbauan">
